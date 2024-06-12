@@ -1,4 +1,4 @@
-# This puppet manuscript will replace a line in a file on a server
+# This is a puppet manuscript will replace a line in a file on a server
 
 $file_to_edit = '/var/www/html/wp-settings.php'
 
